@@ -1,8 +1,8 @@
 # git repo
 ## creator: Roaya Heib
 
-_random text_
+_random text italic_
 
-**RANDOM TEXT**
+**random text bold**
 
-__*really random text*__
+__*random text italic and bold*__
