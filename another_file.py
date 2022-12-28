@@ -1,1 +1,1 @@
-print("Nazareth")
+print("Israel")
