@@ -1,3 +1,5 @@
 # git repo
 ## creator: Roaya Heib
-random text
+_random text_
+*RANDOM TEXT*
+__*really random text*__
